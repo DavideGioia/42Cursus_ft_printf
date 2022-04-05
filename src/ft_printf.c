@@ -6,12 +6,12 @@
 /*   By: dgioia <dgioia@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/02 16:45:02 by dgioia            #+#    #+#             */
-/*   Updated: 2022/04/05 16:58:11 by dgioia           ###   ########.fr       */
+/*   Updated: 2022/04/05 17:35:12 by dgioia           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../include/ft_printf.h"
-#include <stdio.h>
+//#include <stdio.h>
 
 int	ft_char(char lett)
 {
